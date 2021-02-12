@@ -1,0 +1,40 @@
+h1 { 
+    color: brown;
+     
+
+ } 
+
+ h2{
+
+    background-color : blue; 
+  
+ }
+* {
+     border: solid;
+     }
+
+ .header { 
+     background-color : chartreuse; 
+    color: brown;
+    display: flex;
+
+     justify-content: space-between;
+     }
+
+
+     .grid{
+
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        background-color :rgb(53, 194, 250); 
+
+     }
+
+     .footer{
+         display:flex;
+         justify-content: flex-end;
+         background-color : yellow; 
+
+}
+
